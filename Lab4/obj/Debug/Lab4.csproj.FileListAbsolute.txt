@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\Net\NET-master\NET-master\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\USER\Desktop\Net\NET-master\NET-master\Lab4\bin\Debug\Lab4.exe
+C:\Users\USER\Desktop\Net\NET-master\NET-master\Lab4\bin\Debug\Lab4.pdb
+C:\Users\USER\Desktop\Net\NET-master\NET-master\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Net\NET-master\NET-master\Lab4\obj\Debug\Lab4.exe
+C:\Users\USER\Desktop\Net\NET-master\NET-master\Lab4\obj\Debug\Lab4.pdb
